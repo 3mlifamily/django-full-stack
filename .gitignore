@@ -1,0 +1,10 @@
+### Django ###
+config.json
+*.log
+*.pot
+*.pyc
+__pycache_/
+local_settings.py
+db.sqlite3
+media
+
